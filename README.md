@@ -1,1 +1,1 @@
-# HelloWorldApplication
+# Sample Application
